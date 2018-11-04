@@ -1,0 +1,27 @@
+/* CSS issu des tutoriels css.alsacreations.com */
+body {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size: 0.8em;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+#conteneur {
+text-align: left;
+width: 750px;
+margin: 0 auto; 
+}
+#header {
+height: 100px;
+background-color: #4F81BD;
+}
+#centre {
+background-color:#DBE5F1;
+}
+#pied {
+height: 30px;
+background-color: #244061;
+}
+p {
+	margin: 0;
+}

@@ -1,0 +1,9 @@
+.modeles {
+	list-style-type: none;
+	margin: 0.3em;
+	padding: 0.3em;
+	width: 320px;
+}
+.modeles li {
+	width: 310px;
+}
